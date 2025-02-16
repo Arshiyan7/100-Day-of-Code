@@ -5,11 +5,11 @@ This folder contains solutions to array-based problems for Days 1-8 of the 100 D
 ## Problems Solved
 
 ### Day 1: Find Min and Max
-- **File:** `day01_min_max.py`
+- **File:** `Day01_min_max.py`
 - **Description:** Finds the minimum and maximum elements in an array.
 
 ### Day 2: Find Pairs for Target Sum
-- **File:** `day02_finding_pair.py`
+- **File:** `Day02_finding_pair.py`
 - **Description:** Finds pairs in an array that sum up to a given target value.
 
 ### Day 3: Rotate Array by K Places
@@ -35,6 +35,10 @@ This folder contains solutions to array-based problems for Days 1-8 of the 100 D
 ### Day 8: Move Zeros to End
 - **File:** `day08_place_zeros_end.py`
 - **Description:** Moves all zeros in an array to the end while maintaining the order of other elements.
+
+### Day 9: Move Zeros to End
+- **File:** `day09_Longest_SubArray.py`
+- **Description:** Given an array of integers, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum, subarray, and length.
 
 ## How to Run the Scripts
 Each Python file can be executed using:
