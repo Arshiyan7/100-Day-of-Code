@@ -1,6 +1,6 @@
-# Day 1-8 (Arrays) Challenge
+# Day 1-10 (Arrays) Challenge
 
-This folder contains solutions to array-based problems for Days 1-8 of the 100 Days of Code challenge. Each script focuses on a specific problem-solving concept using arrays.
+This folder contains solutions to array-based problems for Days 1-10 of the 100 Days of Code challenge. Each script focuses on a specific problem-solving concept using arrays.
 
 ## Problems Solved
 
