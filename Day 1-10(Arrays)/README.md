@@ -41,7 +41,7 @@ This folder contains solutions to array-based problems for Days 1-8 of the 100 D
 - **Description:** find the contiguous subarray (containing at least one number) which has the largest sum and return its sum, subarray, and length.
 
 ## Day 10: find zero in sub Array
-- **File:** `zero_in_Sub_Array.py`
+- **File:** `day10_zero_in_Sub_Array.py`
 - **Description:**  Checks if a subarray with a sum of zero exists in a given array.
 
 ## How to Run the Scripts
