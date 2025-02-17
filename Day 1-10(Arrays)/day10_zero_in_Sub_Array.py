@@ -25,4 +25,4 @@ def zero_subArray(array):
 arr = [1, 2, -1, -3, 4, 1, 5]
 
 # Call the function and print the result
-print(zero_subArray(arr))  # Output: True
+print(zero_subArray(arr))  
