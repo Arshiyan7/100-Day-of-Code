@@ -5,11 +5,11 @@ This folder contains solutions to array-based problems for Days 1-10 of the 100 
 ## Problems Solved
 
 ### Day 1: Find Min and Max
-- **File:** `Day01_min_max.py`
+- **File:** `day01_min_max.py`
 - **Description:** Finds the minimum and maximum elements in an array.
 
 ### Day 2: Find Pairs for Target Sum
-- **File:** `Day02_finding_pair.py`
+- **File:** `day02_finding_pair.py`
 - **Description:** Finds pairs in an array that sum up to a given target value.
 
 ### Day 3: Rotate Array by K Places
