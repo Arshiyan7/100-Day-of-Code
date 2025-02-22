@@ -13,6 +13,10 @@ output = hsra.
 - **File:** `day02_check_Palindrome.py`
 - **Description:** take input from user and check if the input is palindrome i.e. same answer after reversing the string. for example: input = asa, output = asa -> Palindrome, input = abc, output = bca -> Not a Palindrome
 
+### Day 3: Check Palindrome
+- **File:** `day03_non_repeating.py`
+- **Description:** take input from user and return the first letter that is non repeating, for example: input = aarshh, output = r is first non repeating
+
 
 ## How to Run the Scripts
 Each Python file can be executed using:
