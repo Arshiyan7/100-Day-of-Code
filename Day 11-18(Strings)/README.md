@@ -17,11 +17,17 @@ output = hsra.
 - **File:** `day03_non_repeating.py`
 - **Description:** take input from user and return the first letter that is non repeating, for example: input = aarshh, output = r is first non repeating
 
-### Day 3: Check Anagram
-- **File:** `day04_anagram.py`
+### Day 4: Count frequency of word
+- **File:** `day04_check_Frequency.py`
+- **Description:** take input from user and count the frequecny of words, input = Banana, output = {'B':1,'a':3,'n':2}
+
+### Day 5: Check Anagram
+- **File:** `day05_anagram.py`
 - **Description:** take two inputs from user and check if two numbers has same frequency no matter what the order is: input = silent, listen, output = anagram because (both has same frequencies i.e.)
 {'l': 1, 'i': 1, 's': 1, 't': 1, 'e': 1, 'n': 1}
 {'s': 1, 'i': 1, 'l': 1, 'e': 1, 'n': 1, 't': 1}
+
+
 
 
 ## How to Run the Scripts
