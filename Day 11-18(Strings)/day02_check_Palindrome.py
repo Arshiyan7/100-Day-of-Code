@@ -1,11 +1,14 @@
-String = input("Please Enter any word: ")
+String = input("Please Enter any word: ").lower().strip()
+
 if String.isnumeric() or len(String)<2:
     print("Data should be an alphabet and have more than 2 characters")
     exit()
+
 left = 0
 right = len(String)-1
 to_list = list(String)
 is_palindrome = True
+
 while left<right:
     if String[left]!=String[right]:
         is_palindrome = False

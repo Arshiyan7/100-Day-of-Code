@@ -1,6 +1,6 @@
-word = input("Enter word: ").lower()
+word = input("Enter word: ").lower().strip()
 
-if word.isnumeric() or len(word) < 2:
+if word.isalpha() or len(word) < 2:
     print("Word must be greater than 2 and non-numeric")
     exit()
 
