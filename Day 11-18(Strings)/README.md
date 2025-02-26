@@ -27,7 +27,12 @@ output = hsra.
 {'l': 1, 'i': 1, 's': 1, 't': 1, 'e': 1, 'n': 1}
 {'s': 1, 'i': 1, 'l': 1, 'e': 1, 'n': 1, 't': 1}
 
-
+### Day 6: Basic String Compression Algorithm
+- **File:** `day06_string_compression.py`
+- **Description:** Takes a string input from the user and compresses it by counting consecutive repeating characters. The output format is character followed by its count.
+e.g.
+Input: "aaabbccc"
+Output: "a3b2c3"
 
 
 ## How to Run the Scripts
