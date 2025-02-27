@@ -34,6 +34,12 @@ e.g.
 Input: "aaabbccc"
 Output: "a3b2c3"
 
+### Day 7: Find longest prefix in string
+- **File:** `day07_longest_prefix.py`
+- **Description:** take multiple words as input and finds the longest common prefix among them. It iterates through the words, comparing characters until a mismatch occurs, updating the prefix accordingly. If no common prefix is found, it returns an empty string.
+e.g.
+Input: ['flight','flower','flow']
+output: 'fl'
 
 ## How to Run the Scripts
 Each Python file can be executed using:

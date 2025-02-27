@@ -44,6 +44,8 @@ This folder contains solutions to array-based problems for Days 1-10 of the 100 
 - **File:** `day10_zero_in_Sub_Array.py`
 - **Description:**  Checks if a subarray with a sum of zero exists in a given array.
 
+## Status:
+   ## Completed
 ## How to Run the Scripts
 Each Python file can be executed using:
 ```bash
