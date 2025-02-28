@@ -41,6 +41,13 @@ e.g.
 Input: ['flight','flower','flow']
 output: 'fl'
 
+### Day 8: Replace Spaces in a String  
+- **File:** `day08_replace_spaces.py`  
+- **Description:** Takes a string input and a replacement character from the user. It replaces all spaces in the string with the given character. Ensures the replacement is a single character and handles edge cases like empty input or multiple-character replacements.  
+e.g.
+input = hello world, replace = '-'
+output = hello-world
+
 ## How to Run the Scripts
 Each Python file can be executed using:
 ```bash
