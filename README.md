@@ -1,4 +1,4 @@
-# 🚀 100 Days of Code Challenge  
+# 🚀 100 Days of Code Challenge  ##Status - (On Hold)
 
 ## 💡 About the Challenge  
 Welcome to my **100 Days of Code** journey! 🚀  
