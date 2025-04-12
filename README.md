@@ -1,5 +1,5 @@
 # 🚀 100 Days of Code Challenge  ##Status - (On Hold)
-##Status - (On Hold)
+## Status - (On Hold)
 ## 💡 About the Challenge  
 Welcome to my **100 Days of Code** journey! 🚀  
 I am solving coding problems daily, learning new concepts, and improving my problem-solving skills.  
